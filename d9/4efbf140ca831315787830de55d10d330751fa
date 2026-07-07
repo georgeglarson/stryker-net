@@ -1,0 +1,22 @@
+src/Stryker.Core/Stryker.Core.UnitTest/Mutators/ArrayCreationMutatorTests.cs
+  s_6ca9c611d390c1::t_43c82cedf594e0 132-184
+  s_6ca9c611d390c1::t_feb8397a10e1f8 131,185-223
+src/Stryker.Core/Stryker.Core.UnitTest/Mutators/CollectionExpressionMutatorTests.cs
+  s_6ca9c611d390c1::t_7b6b413895726d 464-467
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d94efbf140ca831315787830de55d10d330751fa",
+  "prompts": {},
+  "sessions": {
+    "s_6ca9c611d390c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a956f50c-612b-4e99-b11e-840f04d738aa",
+        "model": "glm-5.2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
