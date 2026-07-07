@@ -1,0 +1,31 @@
+src/Stryker.Core/Stryker.Core.UnitTest/Mutants/CsharpMutantOrchestratorTests.cs
+  s_6ca9c611d390c1::t_70e9d77b50f51d 620,623-624
+  s_6ca9c611d390c1::t_509a1dfcf76b6c 826-827,829-830
+src/Stryker.Core/Stryker.Core.UnitTest/Mutators/ArrayCreationMutatorTests.cs
+  s_6ca9c611d390c1::t_95b15635f5a6dd 52,69,86
+  s_6ca9c611d390c1::t_70e9d77b50f51d 1-2,39,41-51,53-58,62-68,70-85,87,89-92,104,109,130-151
+  s_6ca9c611d390c1::t_a6b557989d8fa2 88,93-94,152
+src/Stryker.Core/Stryker.Core/Mutators/ArrayCreationMutator.cs
+  s_6ca9c611d390c1::t_8516ab1c9c2b48 36-37
+  s_6ca9c611d390c1::t_70e9d77b50f51d 38-52,54-67
+  s_6ca9c611d390c1::t_8efe8e51c62454 53
+  s_6ca9c611d390c1::t_fc1ada26783b2c 6
+  s_6ca9c611d390c1::t_542b09a9a15067 68-70
+  s_6ca9c611d390c1::t_d0245b06c953e2 71-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3a74f1345ac6aaf75be7ee74ed6bb818dd898523",
+  "prompts": {},
+  "sessions": {
+    "s_6ca9c611d390c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a956f50c-612b-4e99-b11e-840f04d738aa",
+        "model": "glm-5.2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
