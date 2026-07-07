@@ -1,0 +1,20 @@
+src/Stryker.Core/Stryker.Core/Mutators/ArrayCreationMutator.cs
+  s_6ca9c611d390c1::t_8516ab1c9c2b48 36-37
+  s_6ca9c611d390c1::t_fc1ada26783b2c 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "84186041a97a4c3a17f0e17fc889f8111a370f81",
+  "prompts": {},
+  "sessions": {
+    "s_6ca9c611d390c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a956f50c-612b-4e99-b11e-840f04d738aa",
+        "model": "glm-5.2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
