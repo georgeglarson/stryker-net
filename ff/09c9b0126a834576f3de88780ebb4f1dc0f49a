@@ -1,0 +1,44 @@
+docs/mutations.md
+  s_6ca9c611d390c1::t_8d49253611edde 76
+src/Stryker.Core/Stryker.Core/Mutators/ArrayCreationMutator.cs
+  s_6ca9c611d390c1::t_8c05ffb3ba2ce2 70,72-76
+  s_6ca9c611d390c1::t_70e9d77b50f51d 43-44,53
+  s_6ca9c611d390c1::t_d0245b06c953e2 59
+  s_6ca9c611d390c1::t_ec3e9b6b5dbc1d 60,62-64,67-69,71,77-90,96
+  s_6ca9c611d390c1::t_3c830af52e11c3 40,45,47
+  s_6ca9c611d390c1::t_f20988e822d8bf 61
+  s_6ca9c611d390c1::t_52e2cd3e39ce7c 35-39,48-52,54-58
+  s_6ca9c611d390c1::t_5b6715cc8f20e8 41-42,46
+  s_6ca9c611d390c1::t_65e2fa0bd75c77 65-66,91-94
+src/Stryker.Core/Stryker.Core.UnitTest/Mutators/ArrayCreationMutatorTests.cs
+  s_6ca9c611d390c1::t_95b15635f5a6dd 52,69
+  s_6ca9c611d390c1::t_70e9d77b50f51d 1-2,39,41,45-51,53-68,70-85,173-175,187,192,213-234
+  s_6ca9c611d390c1::t_ab0d40ab765596 132-155
+  s_6ca9c611d390c1::t_a6b557989d8fa2 87,176-177,235
+  s_6ca9c611d390c1::t_de6ef42512f748 169
+  s_6ca9c611d390c1::t_0c78278028382d 117-131
+  s_6ca9c611d390c1::t_e357977ff93f46 89-102
+  s_6ca9c611d390c1::t_056ae003c0db6f 103-116,156-168,170-172
+  s_6ca9c611d390c1::t_ba03c34f4ef02a 88
+  s_6ca9c611d390c1::t_66ad0fe9d0c895 86
+src/Stryker.Core/Stryker.Core.UnitTest/Mutants/CsharpMutantOrchestratorTests.cs
+  s_6ca9c611d390c1::t_9c3b38b2874522 96
+  s_6ca9c611d390c1::t_509a1dfcf76b6c 826-827,829-830
+  s_6ca9c611d390c1::t_70e9d77b50f51d 620,623-624
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ff09c9b0126a834576f3de88780ebb4f1dc0f49a",
+  "prompts": {},
+  "sessions": {
+    "s_6ca9c611d390c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a956f50c-612b-4e99-b11e-840f04d738aa",
+        "model": "glm-5.2"
+      },
+      "human_author": null
+    }
+  }
+}
