@@ -1,0 +1,31 @@
+integrationtest/Validation/ValidationProject/ValidateStrykerResults.cs
+  s_54a716d6462899::t_28000ff92fda8c 241
+  s_54a716d6462899::t_8eb0bf87ec8f06 104
+  s_54a716d6462899::t_87634109616ac1 143,162,181
+  s_54a716d6462899::t_6de3a00b8ab98f 84,240
+  s_54a716d6462899::t_161fc5e1aeb7f2 105
+  s_54a716d6462899::t_43df615becfa94 85
+  s_54a716d6462899::t_3877f8a16ef14f 124
+  s_54a716d6462899::t_99e6fe594a0ba2 200
+integrationtest/TargetProjects/NetCore/NetCoreTestProject.XUnit/Constructs.cs
+  s_54a716d6462899::t_d463cd54209d85 19-26
+  s_54a716d6462899::t_3b6f46d90c0cf0 3
+integrationtest/TargetProjects/NetCore/TargetProject/Constructs/CSharp3.cs
+  s_54a716d6462899::t_e4fc5b1c319631 11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d433f055f24393b10d13a19ede05ae4bcb6faff8",
+  "prompts": {},
+  "sessions": {
+    "s_54a716d6462899": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "556260b2-0a79-470f-a5af-c44270b97650",
+        "model": "glm-5.2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
