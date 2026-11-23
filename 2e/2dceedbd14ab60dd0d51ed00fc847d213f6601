@@ -1,0 +1,350 @@
+src/Stryker.Utilities/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 50-52,54,69-77,133-134,211-212,221-222,231,233,244,259,268,280-282,292,304-306,308
+dotnet-tools.json
+  s_25adfe404b8f10::t_05145465a42152 6
+integrationtest/TargetProjects/NetCore/NetCoreTestProject.NUnit/NetCoreTestProject.NUnit.csproj
+  s_25adfe404b8f10::t_05145465a42152 10,12
+src/Stryker.Core/Stryker.Core/Mutants/CsharpMutantOrchestrator.cs
+  s_25adfe404b8f10::t_05145465a42152 52,60
+integrationtest/TargetProjects/NetCore/EmptyTestProject/EmptyTestProject.csproj
+  s_25adfe404b8f10::t_05145465a42152 13
+src/Stryker.TestRunner.MicrosoftTestPlatform/ITestingPlatformClient.cs
+  s_25adfe404b8f10::t_05145465a42152 10,13-14
+src/Stryker.Core/Stryker.Core.UnitTest/Mutators/LinqMutatorTest.cs
+  s_25adfe404b8f10::t_05145465a42152 162-196
+src/Stryker.Core/Stryker.Core.UnitTest/MutationTest/FullRunScenario.cs
+  s_25adfe404b8f10::t_05145465a42152 25-26,127,148
+src/Stryker.TestRunner.MicrosoftTestPlatform/Stryker.TestRunner.MicrosoftTestPlatform.csproj
+  s_25adfe404b8f10::t_05145465a42152 26
+src/Stryker.Configuration/Options/Inputs/TimeoutRatioInput.cs
+  s_25adfe404b8f10::t_ec531060204798 12
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.NUnit/UnitTests.NUnit.csproj
+  s_25adfe404b8f10::t_05145465a42152 15,17
+package.json
+  s_25adfe404b8f10::t_05145465a42152 3-4
+src/Stryker.Core/Stryker.Core.UnitTest/InjectedHelpers/MutantControlCoverageFileTests.cs
+  s_25adfe404b8f10::t_05145465a42152 27,284-347
+  s_25adfe404b8f10::t_9f13a73fb5ec4a 348
+src/Stryker.Configuration/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 42-50,106-107,184-185,194-195,204,206,215,218,241,256,265,277-279,281,286-288,304,316-318,320
+src/Stryker.Core/Stryker.Core.UnitTest/ProjectComponents/TestProjects/TestProjectsInfoTests.cs
+  s_25adfe404b8f10::t_05145465a42152 25,31,57-58,61-62,104-105,108-109,143-146,187-189,192,198,228-230,233,239,286-289
+  s_25adfe404b8f10::t_cd70e4a7e41ca0 290
+src/Stryker.TestRunner.VsTest.UnitTest/VsTestMockingHelper.cs
+  s_25adfe404b8f10::t_05145465a42152 145,540
+src/Stryker.Core/Stryker.Core.UnitTest/MutantFilters/SinceMutantFilterTests.cs
+  s_25adfe404b8f10::t_05145465a42152 133,260-261
+src/Directory.Packages.props
+  s_25adfe404b8f10::t_05145465a42152 3-4,7,9-10,14-15,31-40,42-43,47-50,53
+docs/configuration.md
+  s_25adfe404b8f10::t_3ddc19681d79a2 11,15,62-64,72-73,82-83,92-93,117-118,123,162,170,177-178,185-186,195-196,207-208,223-224,227,235-236,256-257,291,298-299,316-317,324-325,334-335,341,352-353,356-357,361-362,369-370,377-378,399-400,403,407,411,432-433,442-443,446,457,464-465,472-473,482-483,497-498,505-506,513-514,519,530-531,545-546,553-554,590-591,609-610,623-624,628,632-633,640-641,651-652,660-661,672-673,687-688,691,717-718,722,727-728,731,736-738,744-745,752-753
+  s_25adfe404b8f10::t_05145465a42152 100-101,106-114,146-147,149-158,478,695,697-698,701-711
+  s_25adfe404b8f10::t_dd25c322d0647e 479
+src/Stryker.CLI/Stryker.CLI/CommandLineConfig/CommandLineConfigReader.cs
+  s_25adfe404b8f10::t_05145465a42152 214
+src/Stryker.TestRunner/Tests/WrappedGuidsEnumeration.cs
+  s_25adfe404b8f10::t_05145465a42152 7-12,14,16,18-20,23,25,27,29
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/TestCaseFilterExpressionTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-68
+src/Stryker.Core/Stryker.Core.UnitTest/InjectedHelpers/InjectedHelperTests.cs
+  s_25adfe404b8f10::t_05145465a42152 24-29,36,45-46,57-61,64-65,69,73-75
+src/Stryker.Abstractions/Testing/ITestRunner.cs
+  s_25adfe404b8f10::t_05145465a42152 4,10-14,20-31
+src/Stryker.Core/Stryker.Core/InjectedHelpers/MutantControl.cs
+  s_25adfe404b8f10::t_05145465a42152 19-30,32,35-36,38,168,191-204,233-245,248,511,513-514
+src/Stryker.Core/Stryker.Core/Mutators/LinqMutator.cs
+  s_25adfe404b8f10::t_05145465a42152 17,63-64,82,84,90,93-94,98-99,107-108,110,113-114,116,118-127
+src/Stryker.TestRunner/Tests/TestIdentifierList.cs
+  s_25adfe404b8f10::t_05145465a42152 8,18-22,29,31,39,41,43-44,46-59,74,77,83-86,88,93,105
+src/Stryker.Core/Stryker.Core/Baseline/Providers/GitInfoProvider.cs
+  s_25adfe404b8f10::t_05145465a42152 2,20,36-49,53,73,76
+src/Stryker.Core/Stryker.Core.UnitTest/Initialisation/ProjectMutatorTests.cs
+  s_25adfe404b8f10::t_05145465a42152 34-61,65-67,77,80,82-83,88,97,104,106,115-117,129,144-146,158,173-175,187,202-204,216,231-234,242,254,270,272-273,285,354,369,371,377-381,386
+src/Stryker.Abstractions/IMutant.cs
+  s_25adfe404b8f10::t_05145465a42152 11-13
+src/Stryker.Core/Stryker.Core.UnitTest/Mutants/CsharpMutantOrchestratorTests.cs
+  s_25adfe404b8f10::t_05145465a42152 516,519-520,527-535,707,709,773-782,786,1171-1173,1199-1201,1365
+src/Stryker.TestRunner.MicrosoftTestPlatform/ITestServerConnectionFactory.cs
+  s_25adfe404b8f10::t_05145465a42152 1,25,33
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest.csproj
+  s_25adfe404b8f10::t_05145465a42152 1
+src/Stryker.Core/Stryker.Core/Mutators/RegexMutator.cs
+  s_25adfe404b8f10::t_05145465a42152 19,27-38,40-41,43-55,57,59,61-79
+integrationtest/TargetProjects/NetCore/WebApiWithOpenApi/WebApiWithOpenApi.XUnit/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,13-15,17-19,24-26,28-29,51-52,54,59-60,64-65,69-70,72-73,78-79,81,86-87,89-90,95-96,98-99,104-105,107-108,113-114,116-120,125-126,128-131,136-137,139-142,147-148,150,155-156,160-161,165-166,168-170,175-176,178-179,184-185,187,192-193,195-197,202-203,207-231,236-237,239-243,248-249,251-253,258-259,261,266-267,269-276,281-282,284-288,293-294,296-298,303-304,306-310,315-316,318-322,327-328,330-331,336-337,339-343,348-349,353-354,358-359,363-364,366,371-372,417
+src/Stryker.TestRunner.MicrosoftTestPlatform/Models/MtpTestCase.cs
+  s_25adfe404b8f10::t_05145465a42152 38-44
+integrationtest/TargetProjects/NetCore/ExtraProject.XUnit/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11,36-37,98
+src/Stryker.TestRunner.VsTest.UnitTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,17-18,23-38,40,45-55,59-60,62-68,73-74,76-77,87-88,127-128,180-181,185-186,190-191,193,206-207,211-212,216-217,219-220,225-226,228,233-234,236-240,245-246,248-249,254-255,259-260,267-268,270,281-282,286-287,289-292,297-298,301,306-307,309-310,315-316,318,323-324,326,331-332,334,356-357,361-362,364-368,410-411,445-446,458-459,476-477,486-487,492-493,500-505,508,515-516,518-523,533,535,545-546,552-553,555-556,559-560,562-565,571-572,585,591-592,599-601,607-616,625,628,633-635,637,642-644,646-647,688-690,706,741-743,745,750-752,754-756,761-763,765,770-778,782-784,788-790,794-796,800-802,804,827-829,831,836-838,840,845-847,937-939,941-942,947-949,951
+src/Stryker.Core/Stryker.Core/Initialisation/InputFileResolver.cs
+  s_25adfe404b8f10::t_05145465a42152 113-115,161-178
+integrationtest/TargetProjects/NetCore/WebApiWithOpenApi/WebApiWithOpenApi/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11,16-17
+src/Stryker.Solutions.UnitTest/SolutionFileShould.cs
+  s_25adfe404b8f10::t_05145465a42152 132,134
+src/Stryker.TestRunner.MicrosoftTestPlatform/TestCaseFilterExpression.cs
+  s_25adfe404b8f10::t_05145465a42152 1-217
+src/Stryker.Core/Stryker.Core/Initialisation/InitialisationProcess.cs
+  s_25adfe404b8f10::t_05145465a42152 37-47,84-93,96,99-105,108,111,116-127,130-131,133-135,137-141,143-159,162,164,167-175,178-180,189,191,194-200,207-208,243-244
+src/Stryker.Core/Stryker.Core.UnitTest/Reporters/DashboardReporterTests.cs
+  s_25adfe404b8f10::t_05145465a42152 3,6-7,258-326,328
+  s_25adfe404b8f10::t_bc283a797e1ef1 327
+src/Stryker.Configuration/Options/StrykerOptions.cs
+  s_25adfe404b8f10::t_05145465a42152 68,127
+.github/workflows/unit-test-report.yaml
+  s_25adfe404b8f10::t_05145465a42152 26
+integrationtest/TargetProjects/NetCore/NetCoreTestProject.MSTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-12,17-19,21-25,30-32,34,57-58,62-63,66,71-72,74,79-80,84-85,87,92-93,97-98,100,105-106,119,128-130,132-133,138-140,142-146,151-153,155,180-181,185-186,189,194-195,197,202-203,207-208,210,215-216,220-221,223,228-229,255
+src/Stryker.RegexMutators/Stryker.RegexMutators/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 16-29
+docs/technical-reference/project-components.md
+  s_25adfe404b8f10::t_05145465a42152 25-26
+src/Stryker.Core/Stryker.Core/Compiling/CSharpRollbackProcess.cs
+  s_25adfe404b8f10::t_05145465a42152 27,45-46,69,170-171,176,210,262,265,268,270-271,273-277,279-280,282-288,296,299-332,343,354
+src/Stryker.Core/Stryker.Core.UnitTest/Options/Inputs/LanguageVersionInputTests.cs
+  s_25adfe404b8f10::t_05145465a42152 5,7,17-18,23,31-32,35,39,43,45-47,55,58
+src/Stryker.Core/Stryker.Core.UnitTest/Options/StrykerInputsTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1,3-4,18-63,260-319
+src/Stryker.TestRunner.VsTest.UnitTest/VsTestRunnerPoolTests.cs
+  s_25adfe404b8f10::t_05145465a42152 37-44
+  s_25adfe404b8f10::t_1f62d8adb8801a 36
+src/Stryker.CLI/Stryker.CLI.UnitTest/FileConfigGeneratorTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-17
+src/Stryker.Solutions/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 17-25,81-82,159-160,169-170,179,181,190,193,222,256,265,277-279,281,286-288,298,316-318,320
+src/Stryker.Solutions.UnitTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,17-18,23-25,27-31,44-52,127-128,132-133,137-138,142-143,166-167,169-172,177-178,181,186-187,189-190,195-196,198,203-204,206,211-212,214,236-237,241-242,244-248,298-299,308-309,318,320,327,336,339,368,402,411,423-425,427,432-434,438-440,456-458,460,465,483-485,487
+.github/workflows/unit-test.yaml
+  s_25adfe404b8f10::t_05145465a42152 30,44
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.MSTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-14,19-21,23-24,29-31,33-37,42-44,46,51-52,69-70,74-75,79-80,82-83,88-89,91,96-97,101-102,104,109-110,112,114-115,119-120
+src/Stryker.RegexMutators/Stryker.RegexMutators.UnitTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,17-18,23-25,27-31,44-52,74-75,79-80,84-85,89-90,92-95,100-101,104,109-110,112-113,118-119,121,126-127,129,134-135,137,142-143,147-148,150-154,170-174,183-185,189-197,201-203,205
+integrationtest/TargetProjects/NetCore/NetCoreTestProject.XUnit/NetCoreTestProject.XUnit.csproj
+  s_25adfe404b8f10::t_05145465a42152 13
+src/Stryker.CLI/Stryker.CLI/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 19-21,23,28-30,32-41,52-62,66-67,69-75,80-81,83-84,99-100,152-153,155,168-169,173-174,176-177,182-183,185,190-191,193-197,202-203,205-206,211-212,216-217,224-225,227,238-239,265-266,268,273-274,276,282-283,286-287,293-294,335-336,370-371,375-376,393-394,403-404,409-410,417-422,425,432-433,435-440,450,452,462-463,469-470,483,489-490,497-499,505-514,523,526,531-533,535,540-542,544-545,623-625,627-629,634-636,638,641,643-645,649-651,655-657,661-663,667-669,671,694-696,767-769,771
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/MicrosoftTestingPlatformRunnerTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-2,8,38-209,617,771,1009-1047,1299,1311,1314-1315,1439-1440
+src/Directory.Build.props
+  s_25adfe404b8f10::t_05145465a42152 12,19-20
+src/Stryker.CLI/Stryker.CLI.UnitTest/CommandLineConfigReaderTests.cs
+  s_25adfe404b8f10::t_05145465a42152 43-51
+  s_25adfe404b8f10::t_08b18d0a2a958a 42
+src/Stryker.CLI/Stryker.CLI.UnitTest/StrykerCLITests.cs
+  s_25adfe404b8f10::t_05145465a42152 69-70,533-541
+  s_25adfe404b8f10::t_596c16a87affd1 542-543
+src/Stryker.Core/Stryker.Core/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11,16-18,20-21,71-73,96-98,100,105-107,109-111,116-118,122-124,128-130,134-136,138,155-157,226-234,237-239,241,246-256,260-261,263-269,274-275,277-278,293-294,346-347,349,362-363,367-368,370-371,376-377,379,384-385,387-391,396-397,399-400,405-406,410-411,418-419,421,432-433,491-492,526-527,531-532,549-550,559-560,569,571,581-582,588-589,602,608-609,616-618,624-633,642,645,665-667,669,672,674-676
+src/Stryker.TestRunner.MicrosoftTestPlatform/DefaultTestServerConnectionFactory.cs
+  s_25adfe404b8f10::t_05145465a42152 1,5,8-9,20-22,25-26,29-33,35-36,39-40,53,77,86,88-97,99-100,102,105-123,125-147,149-151,154-190
+  s_25adfe404b8f10::t_dd0236ba8a57b2 191
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/MtpTestCaseTests.cs
+  s_25adfe404b8f10::t_05145465a42152 37-50
+  s_25adfe404b8f10::t_c8c07f05bc5a0a 36
+src/Stryker.CLI/Stryker.CLI.UnitTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,17-18,23-25,27,32-34,36-40,62-70,73-75,77-78,83-93,97-98,100-106,111-112,114-115,125-126,157-158,210-211,215-216,220-221,223,236-237,241-242,246-247,249-250,255-256,258,263-264,266-270,275-276,278-279,284-285,289-290,297-298,300,311-312,316-317,319-322,327-328,331,336-337,339-340,345-346,348,353-354,356,361-362,364,386-387,391-392,394-398,408-409,411,416-417,419,425-426,429-430,436-437,478-479,513-514,526-527,544-545,554-555,561-562,564,570-571,578-583,586,593-594,596-601,611,613,623-624,630-631,644,650-651,658-660,666-675,684,687,692-694,696,701-703,705-706,790-792,794,799-801,803-805,810-812,814,819-827,831-833,837-839,843-845,849-851,853,876-878,880,885-887,891-893,895,967-969,971
+src/Stryker.Core/Stryker.Core.UnitTest/Initialisation/InitialisationProcessTests.cs
+  s_25adfe404b8f10::t_05145465a42152 27,34-325,409-413,447-449,451,453,460-461,464-473,643,702
+src/Stryker.Core/Stryker.Core/ProjectComponents/TestProjects/TestProject.cs
+  s_25adfe404b8f10::t_05145465a42152 9,13,33-46,49-54,56,58,65
+MAINTAINERS.md
+  s_25adfe404b8f10::t_05145465a42152 90-93,97,112,117-118
+  s_25adfe404b8f10::t_f1648369f2e104 119
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.NUnit/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-12,23-25,28-30,53-54,63-64,67,72-73,75,80-81,83-86,91-92,96-97,99,102-106,109-110,114-115,117
+src/Stryker.Core/Stryker.Core/Reporters/DashboardReporter.cs
+  s_25adfe404b8f10::t_05145465a42152 38-39,45-51
+src/Stryker.TestRunner.VsTest/VsTestRunner.cs
+  s_25adfe404b8f10::t_05145465a42152 61,64-65,72,121,201,260-261
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.MSTest/UnitTests.MSTest.csproj
+  s_25adfe404b8f10::t_05145465a42152 1
+src/Stryker.Configuration/Options/StrykerInputs.cs
+  s_25adfe404b8f10::t_05145465a42152 2,4,65-66,68-69,191,194-225
+src/Stryker.Core/Stryker.Core/Initialisation/CsharpProjectComponentsBuilder.cs
+  s_25adfe404b8f10::t_05145465a42152 40,56,68,70,98,136,233,235
+src/Stryker.Core/Stryker.Core.UnitTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,32-34,36-37,42-44,46,51-53,55-59,87-95,98-100,102-103,108-118,122-123,125-131,136-137,139-140,150-151,190-191,243-244,248-249,253-254,256,269-270,274-275,279-280,282-283,288-289,291,296-297,299-303,308-309,311-312,317-318,322-323,330-331,333,344-345,349-350,352-355,360-361,364,369-370,372-373,378-379,381,386-387,389,394-395,397,419-420,424-425,427-431,473-474,508-509,521-522,539-540,549-550,555-556,563-568,571,578-579,581-586,596,598,608-609,615-616,629,635-636,643-645,651-660,669,672,677-679,681,686-688,690-691,741,766-768,770,775-777,779-781,786-788,790,795-803,807-809,813-815,819-821,825-827,829,852-854,856,861-863,928-930,932
+src/Stryker.CLI/Stryker.CLI/FileBasedInput.cs
+  s_25adfe404b8f10::t_05145465a42152 32
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/AssemblyTestServerTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1,6,16,18-22,27-31,33-46,49-50,53,57-58,62,66,68-74,78,83,85-86,90,92-95,98,100-103,107,109,112,114-115,119,121-122,125,127-130,134,136-139,142,144-146,150,152,156-158,162,164-168,171,173-174,178,182,184,188,196,198-207,211,213,217,225,227-236,240,242-246,250,252-256,260,262,266,268-275,277-278,283,286-290,294,296-301,306,310,315,317-323,327,332,334-335,339,341,346-348,352,359-360,364,367,372
+src/Stryker.Utilities/Buildalyzer/IAnalyzerResultExtensions.cs
+  s_25adfe404b8f10::t_05145465a42152 6,12,48-49,51-61,63-67,69-74,77,79-98,100-106,108-120,122-143,146-152,154-157,159-164,166-175,177-183,185-209,213,215-218,220,241-264,266-272,274-276,278-281,283-284,286-287,289-294,296-317,319-320,322-326,328,330-334,337-346,348-358,360-377,379-389,392,394,396-400,403-410,412-414,416,418-420,423-426,428-432,434-435
+integration-tests.ps1
+  s_25adfe404b8f10::t_05145465a42152 126-131
+src/Stryker.TestRunner.MicrosoftTestPlatform/MicrosoftTestingPlatformRunner.cs
+  s_25adfe404b8f10::t_05145465a42152 8,51-52,55-65,89-91,93,856-863,880,882-896,898-899,1061,1063,1065,1259-1267,1345,1355-1356,1358,1376-1390
+  s_25adfe404b8f10::t_e1118f324fb4b5 1391
+src/Stryker.Core/Stryker.Core/Mutants/CsharpNodeOrchestrators/ConstructorInitializerOrchestrator.cs
+  s_25adfe404b8f10::t_05145465a42152 1-23
+src/Stryker.Core/Stryker.Core/Mutants/CsharpNodeOrchestrators/BaseFunctionOrchestrator.cs
+  s_25adfe404b8f10::t_05145465a42152 92-96
+.github/workflows/integration-test.yaml
+  s_25adfe404b8f10::t_05145465a42152 52
+src/Stryker.Core/Stryker.Core/InjectedHelpers/CodeInjection.cs
+  s_25adfe404b8f10::t_05145465a42152 4,53,67-78
+  s_25adfe404b8f10::t_888e270c2b8f21 79
+src/Stryker.Core/Stryker.Core/Initialisation/ProjectMutator.cs
+  s_25adfe404b8f10::t_05145465a42152 13,49-52,57,114
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.XUnit/UnitTests.XUnit.csproj
+  s_25adfe404b8f10::t_05145465a42152 14
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/DefaultTestServerConnectionFactoryTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-87
+src/Stryker.TestRunner.MicrosoftTestPlatform/Models/TestNode.cs
+  s_25adfe404b8f10::t_05145465a42152 39-47
+src/Stryker.TestRunner.VsTest/VsTestRunnerPool.cs
+  s_25adfe404b8f10::t_05145465a42152 24-26
+integrationtest/Validation/ValidationProject/ValidateStrykerResults.cs
+  s_25adfe404b8f10::t_faab35151c7698 84,104,124,146,166,186,213,253
+  s_25adfe404b8f10::t_05145465a42152 125
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/MicrosoftTestPlatformRunnerPoolTests.cs
+  s_25adfe404b8f10::t_05145465a42152 8,49,57,60,64,72,75,79,87,90,241-242,245-246
+.github/workflows/pr-linter.yaml
+  s_25adfe404b8f10::t_05145465a42152 1-47
+azure-pipelines.yml
+  s_25adfe404b8f10::t_05145465a42152 26-27
+src/Stryker.Core/Stryker.Core.UnitTest/Initialisation/Buildalyzer/AnalyzerResultExtensionsTests.cs
+  s_25adfe404b8f10::t_05145465a42152 2,182-218,222-225,230-233,237,240-241,252,255,260-271,330-349,489-526
+  s_25adfe404b8f10::t_4531f4a1e63641 527
+src/Stryker.TestRunner.MicrosoftTestPlatform/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 17,19-21,23,25-27,29,87-88,106-107,165-166,175-176,185,187,193-194,203,206,235,269,278,290-292,294,299-301,317,335-337,339
+src/Stryker.Configuration/Options/Inputs/LanguageVersionInput.cs
+  s_25adfe404b8f10::t_05145465a42152 5,7,13,15-17,20,24,28-30,32
+src/Stryker.Core/Stryker.Core.UnitTest/AssertExtensions.cs
+  s_25adfe404b8f10::t_05145465a42152 35,37-38,40,42-44
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/MicrosoftTestingPlatformRunnerCoverageTests.cs
+  s_25adfe404b8f10::t_05145465a42152 231-279
+src/Stryker.TestRunner.VsTest/VsTestContextInformation.cs
+  s_25adfe404b8f10::t_05145465a42152 181,187-195,207,209-231,319
+.github/workflows/stryker-on-stryker.yaml
+  s_25adfe404b8f10::t_05145465a42152 55,68
+src/Stryker.Abstractions/Testing/ITestIdentifiers.cs
+  s_25adfe404b8f10::t_05145465a42152 5,13-19,21
+src/Stryker.TestRunner.MicrosoftTestPlatform/MicrosoftTestPlatformRunnerPool.cs
+  s_25adfe404b8f10::t_05145465a42152 4,21-23,81
+src/Stryker.TestRunner.MicrosoftTestPlatform/Models/MtpTestDescription.cs
+  s_25adfe404b8f10::t_05145465a42152 15
+src/Stryker.Utilities/Buildalyzer/IAnalyzerResultCSharpExtensions.cs
+  s_25adfe404b8f10::t_05145465a42152 37,39-43,45,47-48,50-53,77-82
+integrationtest/TargetProjects/NetCore/EmptyTestProject/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-12,47-48,52-53,57-58,60,114
+integrationtest/TargetProjects/NetCore/WebApiWithOpenApi/WebApiWithOpenApi.XUnit/WebApiWithOpenApi.XUnit.csproj
+  s_25adfe404b8f10::t_05145465a42152 11-13
+src/Stryker.Core/Stryker.Core.UnitTest/TestHelper.cs
+  s_25adfe404b8f10::t_05145465a42152 34-35
+integrationtest/TargetProjects/NetCore/NetCoreTestProject.NUnit/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-12,23-25,28-30,53-54,63-64,67,72-73,75,80-81,83-86,91-92,96-97,99,102-106,109-110,114-115,117,131
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.TUnit/UnitTests.TUnit.csproj
+  s_25adfe404b8f10::t_05145465a42152 14-15
+integrationtest/TargetProjects/MicrosoftTestPlatform.slnx
+  s_25adfe404b8f10::t_05145465a42152 15
+integrationtest/TargetProjects/NetCore/NetCoreTestProject.XUnit/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-12,47-48,52-53,57-58,60,114
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.TUnit/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-12,17-19,21-25,48-49,63-64,68-69,74-75,78,83-84,86-87,92-93,95,100-101,105-106,108,113-114,118-119,121,124-128,136-137,141-142,146-147,149-152
+integrationtest/TargetProjects/MicrosoftTestPlatform/EmptyTestProject/EmptyTestProject.csproj
+  s_25adfe404b8f10::t_05145465a42152 1-21
+src/Stryker.Core/Stryker.Core.UnitTest/MutantAndCompileTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-87
+src/Stryker.Core/Stryker.Core.UnitTest/Compiling/CSharpCompilingProcessTests.cs
+  s_25adfe404b8f10::t_05145465a42152 24,71-98
+  s_25adfe404b8f10::t_98bdec224d4d04 99-100
+src/Stryker.Core/Stryker.Core.UnitTest/ProjectComponents/TestProjects/TestProjectTests.cs
+  s_25adfe404b8f10::t_05145465a42152 2,6,74-76,84,94-150
+src/Stryker.Abstractions/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 56-58,66-74,77-79,81,217-218,227-228,232,247,256,268,280
+src/Stryker.Core/Stryker.Core/Instrumentation/IfInstrumentationEngine.cs
+  s_25adfe404b8f10::t_05145465a42152 14,24-43,45-52,64
+integrationtest/TargetProjects/MicrosoftTestPlatform/UnitTests.XUnit/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 7-9,11-12,49-50,84-85,89-90,92
+src/Stryker.Core/Stryker.Core/CoverageAnalysis/CoverageAnalyser.cs
+  s_25adfe404b8f10::t_05145465a42152 16,44-45,56-90,96,98-99,102,105,123,128-131,140-141,145-148,153-155,184,190
+src/Stryker.TestRunner.MicrosoftTestPlatform/AssemblyTestServer.cs
+  s_25adfe404b8f10::t_05145465a42152 58,67,83-92,94,100,103,116,154,157-158,160,165-169,172-181,189,191,215
+src/Stryker.Core/Stryker.Core/Initialisation/ProjectSimulatedBuildWrapper.cs
+  s_25adfe404b8f10::t_05145465a42152 39
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/TestingPlatformClientTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-2,12-14,16-17,20,22-23,25-26,28,32,34-50,52,56-68,72,74-77,79-80,82-84,88,90-101,103,107-110,114,116-117,119-120,122-125,129,131,133-146,150,152-154,156-157,159-161,165,167-169,171-178,180-181,183-186,188,190-191,193,197,199-200,202-203,205,209,211,213,215,219,221-222,224-225,227,231,233-247,251,253,255,257,260-286,288,290-304,307,309,311
+src/Stryker.Core/Stryker.Core/Helpers/RoslynHelper.cs
+  s_25adfe404b8f10::t_05145465a42152 32-46
+  s_25adfe404b8f10::t_c1f40cf0d99b7f 31
+src/Stryker.Core/Stryker.Core/MutantFilters/SinceMutantFilter.cs
+  s_25adfe404b8f10::t_05145465a42152 124
+src/Stryker.Core/Stryker.Core/Mutants/Mutant.cs
+  s_25adfe404b8f10::t_05145465a42152 18,20,22,39,52
+src/Stryker.Core/Stryker.Core.UnitTest/Initialisation/InitialTestProcessTests.cs
+  s_25adfe404b8f10::t_05145465a42152 47-48
+src/Stryker.Core/Stryker.Core/MutationTest/MutationTestProcess.cs
+  s_25adfe404b8f10::t_05145465a42152 198
+src/Stryker.Core/Stryker.Core.UnitTest/Initialisation/InputFileResolverTests.cs
+  s_25adfe404b8f10::t_05145465a42152 179-206
+src/Stryker.Core/Stryker.Core.UnitTest/Mutators/RegexMutatorTest.cs
+  s_25adfe404b8f10::t_05145465a42152 40-49
+  s_25adfe404b8f10::t_9f5fdf75f899ac 39
+src/Stryker.Core/Stryker.Core.UnitTest/Reporters/Json/JsonReporterTests.cs
+  s_25adfe404b8f10::t_05145465a42152 29,206
+src/Stryker.TestRunner/Results/TestRunResult.cs
+  s_25adfe404b8f10::t_05145465a42152 31-32
+.github/instructions/conventional-commit.instructions.md
+  s_25adfe404b8f10::t_05145465a42152 47-52,60-61,64,87,105,108-109,118-120
+integrationtest/Validation/ValidationProject/Validation.csproj
+  s_25adfe404b8f10::t_05145465a42152 8
+integrationtest/TargetProjects/MicrosoftTestPlatform.sln
+  s_25adfe404b8f10::t_05145465a42152 26-27,134-145,159
+src/Stryker.DataCollector/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,17,23-25,36-57,65-66,77-84,87-88,90-92,97-98,110-114,117-143
+src/Stryker.TestRunner/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-24,159-160,169-170,179,181,210,244,253,265,277,289-291,293
+CONTRIBUTING.md
+  s_25adfe404b8f10::t_05145465a42152 88-89,91
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/MtpTestDescriptionTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-29
+src/Stryker.Core/Stryker.Core.UnitTest/Testing/TestRunResultTests.cs
+  s_25adfe404b8f10::t_05145465a42152 1-43
+src/Stryker.TestRunner.MicrosoftTestPlatform.UnitTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,17,22-24,26-29,34-36,38-39,44-46,48,53-55,57-61,66-68,70,83-91,99-100,174-175,179-180,184-185,203-204,208-209,212,217-218,220,225-226,228,250-251,300-301,310-311,320,322,328-329,336-338,347,350,385,419,428,440-448,452-454,470,488-490,492
+src/Stryker.TestRunner.VsTest/packages.lock.json
+  s_25adfe404b8f10::t_05145465a42152 13-15,17,22-24,28-30,34-36,40-42,44-53,58-60,62,120-121,198-199,208-209,218,220,226-227,233-234,243,246,275,309,318,342
+src/Stryker.TestRunner.VsTest.UnitTest/VsTextContextInformationTests.cs
+  s_25adfe404b8f10::t_05145465a42152 13,18,75,108,110,140-221,237
+CHANGELOG.md
+  s_25adfe404b8f10::t_05145465a42152 12-62
+integrationtest/TargetProjects/NetCore/WebApiWithOpenApi/WebApiWithOpenApi/WebApiWithOpenApi.csproj
+  s_25adfe404b8f10::t_05145465a42152 10
+src/Stryker.Core/Stryker.Core/Compiling/CsharpCompilingProcess.cs
+  s_25adfe404b8f10::t_05145465a42152 6,94,196,198-202,220,304,306,311,324
+src/Stryker.TestRunner.MicrosoftTestPlatform/TestingPlatformClient.cs
+  s_25adfe404b8f10::t_05145465a42152 2,7,9-13,15-17,19,21,23-24,35-41,43,45,47-48,50,52,56-70,72-74,76,78,82-83,85-86,88,90-91,95,97-98,100,102,104,108-113,115-136,138-139,141-145,147,149,151,154-158
+integrationtest/TargetProjects/NetCore/NetCoreTestProject.MSTest/NetCoreTestProject.MSTest.csproj
+  s_25adfe404b8f10::t_05145465a42152 13-15
+integrationtest/TargetProjects/NetCore/ExtraProject.XUnit/ExtraProject.XUnit.csproj
+  s_25adfe404b8f10::t_05145465a42152 11
+src/Stryker.TestRunner.VsTest/DiscoveryEventHandler.cs
+  s_25adfe404b8f10::t_05145465a42152 16,60-68
+src/Stryker.Core/Stryker.Core.UnitTest/Compiling/CSharpRollbackProcessTests.cs
+  s_25adfe404b8f10::t_05145465a42152 6,149,555,1019,1030,1042,1054,1064,1074,1112-1215,1224-1292
+  s_25adfe404b8f10::t_d38affa6f13c8b 1293
+src/Stryker.Abstractions/IReadOnlyMutant.cs
+  s_25adfe404b8f10::t_05145465a42152 14-16
+.vscode/launch.json.example
+  s_25adfe404b8f10::t_a43c0fb9b418b2 54-63,114-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "2e2dceedbd14ab60dd0d51ed00fc847d213f6601",
+  "prompts": {},
+  "sessions": {
+    "s_25adfe404b8f10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "547c8574-af7e-47c7-8cd2-8abb57538268",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
